@@ -1,0 +1,4 @@
+npx create-react-app someName
+npm install react-router-dom
+npm install axios
+npm i react-hook-form => {import { useForm } from "react-hook-form";}
